@@ -1,0 +1,19 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Intent2</string>
+    <string
+        name="editText_uri"
+        android:orientation="vertical"
+        >http://www.polinema.ac.id</string>
+    <string
+        name="button_uri"
+        android:orientation="vertical"
+        >openWebsite</string>
+    <string
+        name="editText_loc"
+        android:orientation="vertical"
+        >Politeknik Negeri Malang</string>
+    <string
+        name="button_loc"
+        android:orientation="vertical"
+        >openLocation</string>
+</resources>
